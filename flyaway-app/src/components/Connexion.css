@@ -1,0 +1,63 @@
+
+  .formulaire{
+    width:100vw ;
+    height: 90vh;
+    background-color: #C8D4E6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .Information{
+    height: auto;
+    display: flex; 
+    width: 80vw; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 35vw;
+  }
+
+  .block_connexion{
+    width: 90vw;
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+  }
+  .icones-input_connexion{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    width: 60px;
+    transform: translateX(-20px);
+    background-color: #1E4D9B;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+  }
+
+  .entrer_connexion{
+    width: 90%;
+    transform: translateX(30px);
+  }
+  
+  
+  .btn-Envoyer_connexion{
+    width: 60vw;
+    height: 6vh;
+    background-color: #1E4D9B;
+    border-radius: 10vw 0px 10vw 0px ;
+    font-size: 5.5vw;
+    color: white;
+    border: none;
+    transform: translateY(-80px);
+  }
+
+
+  
+
+
+
+
+
+  

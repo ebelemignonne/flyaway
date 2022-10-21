@@ -1,0 +1,76 @@
+.second{
+    margin-top: 20px;
+    width: 100vw ;
+    height: 40vh;
+  }
+  
+  .radiogpe{
+    width: 100vw;
+    margin-top: 20px;
+    margin-left: 15px;
+  }
+  .lab{
+    font-size: 4px;
+    width: 32vw;
+  }
+  .lab label{
+    font-size: 45px;
+  }
+  .fd{
+    width: 30vw;
+  }
+  .fdo{
+    width: 25vw;
+  }
+  .inputs{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  .inputsone{
+    display:flex;
+    justify-content: space-around;
+    width: 100vw;
+  }
+  .inputstwo{
+    display:flex;
+    justify-content: space-around;
+    width: 100vw;
+    margin-top: 5px;
+  }
+  .vols{
+    width: 40vw;
+    height: 6vh;
+    background-color: #1E4D9B;
+    border-radius: 10vw 0px 10vw 0px ;
+    margin-left: 30vw;
+    font-size: 5vw;
+    margin-top: 8vw;
+    /* margin-bottom: 10vw; */
+    border: none;
+    color: white;
+  }
+  
+  .texo{
+    color: white;
+  }
+  .planes{
+    width: 15vw;
+    height: 5vh;
+    margin-left: 170px;
+  }
+  
+  .vols a{
+    text-decoration: none;
+    color: white;
+  }
+  .date{
+    border: none;
+    border-radius:10px,
+  }
+
+  .parag{
+    font-weight:0;
+    color: grey;
+  }
+
